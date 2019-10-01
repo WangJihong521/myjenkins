@@ -8,9 +8,6 @@ public class UserController {
 	
 	@RequestMapping("/")
 	public String index() {
-		System.out.println(111);
-		System.out.println(111);
-		System.out.println(111);
 		return "index";
 	}
 }
