@@ -1,4 +1,4 @@
-package com.wangjihong.www.myjenkins;
+package com.wangjihong.www;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
