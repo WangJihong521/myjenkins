@@ -17,6 +17,7 @@ public class UserController {
 	}
 	
 	public static String sendGet(String urlNameString) {
+		int a = 1/0;
         String result = "";
         BufferedReader in = null;
         try {
