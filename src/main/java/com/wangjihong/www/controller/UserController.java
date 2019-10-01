@@ -8,7 +8,6 @@ public class UserController {
 	
 	@RequestMapping("/")
 	public String index() {
-		System.out.println("进来了！！！");
 		return "index";
 	}
 }
