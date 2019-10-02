@@ -1,7 +1,7 @@
 package com.wangjihong.www.pojo;
 
 public class User {
-	private String name="hello welcome to jenkins 牛逼 次奥次奥次奥";
+	private String name="hello welcome to jenkins";
 
 	public String getName() {
 		return name;
