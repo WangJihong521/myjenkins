@@ -8,6 +8,7 @@ public class UserController {
 	
 	@GetMapping("/")
 	public String index() {
+		int a =1/0;
 		return "index";
 	}
 	
